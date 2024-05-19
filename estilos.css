@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    background-color: darkslategray;
+    padding-right:50px;
+    padding-bottom:30px;
+    padding-top:30px;
+}
+.editar {
+    color:beige;
+    margin-left:20px;
+    font-size:30px
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    flex: 1;
+    background-color:beige
+}
+.secao1 {
+    display: flex;
+    flex: 1; 
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color:beige;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.secao2 {
+    display: flex;
+    flex: 1; 
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color:darkslategray;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+.sobreNos {
+    font-size:40px;
+    padding-top:80px;
+}
+.titulo {
+    font-size:50px;
+    margin-left:20px;
+    color:beige;
+}
+.info {
+    font-size:20px;
+}
+.cardapio{
+    font-size:40px;
+    padding-top:80px;   
+}
