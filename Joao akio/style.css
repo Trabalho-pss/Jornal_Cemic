@@ -1,10 +1,10 @@
 body{
-    background-color: white;
+    background-color: rgb(233, 233, 233);
     margin: 0;
 }
 
 footer{
-    background-color: black;
+    background-color: #66349f;
     margin: 0;
     padding: 20px;
     color: white;
@@ -100,9 +100,9 @@ button#send:hover{
 button#sugest{
     border-radius: 10px;
     margin-top: 7px;
-    background-color: rgb(61, 61, 61);
+    background-color: #4b2669;
     border-style: solid;
-    border-color: rgb(48, 48, 48);
+    border-color: #2f1842;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 30px;
@@ -128,7 +128,7 @@ a.fot_desc{
 }
 
 header{
-    background-color: black;
+    background-color: #66349f;
     display: flex;
     padding: 10px;
     gap:20%;
@@ -138,8 +138,8 @@ header{
 }
 
 .logo{
-    width: 150px;
-    height: 60px;
+    width: 250px;
+    height: 70px;
 }
 
 .topo{
@@ -182,11 +182,14 @@ color: white;
     display: flex;
     gap: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(197, 197, 197);
+    background-color: #66349f;
     padding: 20px;
     border-radius: 50px;
-    border-style:outset;
+    border-style:none;
+    border-color:#66349f;
+ 
     box-shadow: 0px 3px 10px black;
+    color:white;
 }
 
 .banner{
