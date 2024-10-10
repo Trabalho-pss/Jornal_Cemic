@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body{
-    background-color: white;
+    background-color: whitesmoke;
     margin: 0;
     font-family: 'poppins';
 }
@@ -10,7 +10,7 @@ footer{
     background-color: hwb(256 9% 45%) ;
     margin: 0;
     padding: 20px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 #bmenu{
@@ -112,7 +112,7 @@ button#send:hover{
 button#sugest{
     border-radius: 10px;
     margin-top: 7px;
-    background-color: rgb(61, 61, 61);
+    background-color: rgb(71, 68, 68);
     border-style: solid;
     border-color: rgb(48, 48, 48);
     color: white;
@@ -202,17 +202,17 @@ transition: 750ms;
     display: flex;
     gap: 30px;
     font-family:'poppins';
-    background-color: rgb(197, 197, 197);
+    background-color: whitesmoke;
     padding: 20px;
     border-radius: 50px;
     border-style:outset;
     box-shadow: 0px 3px 10px black;
 }
 .leia:hover{
-    background-color: rgb(207, 199, 199);
+    background-color: rgb(0, 0, 0);
 }
 .bleia:hover{
-    background-color: rgb(207, 199, 199);
+    background-color: rgb(0, 0, 0);
 }
 
 .banner{
@@ -220,7 +220,7 @@ transition: 750ms;
     border-radius: 20px;
     width: 50%;
     box-shadow: 20px;
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(0, 0, 0);
 }
 
 .bdesc_p{
@@ -267,7 +267,7 @@ transition: 750ms;
 
 .pthumb{
     font-size: 15px; 
-    color:rgb(63, 63, 63)
+    color:rgb(0, 0, 0)
 }
 
 .thumb{
@@ -301,7 +301,7 @@ transition: 750ms;
 @media screen and (max-width:1062px){
     #mobilemenu{
         z-index: 1;
-        background-color: rgb(31, 31, 31);
+        background-color: rgb(0, 0, 0);
         position: fixed;
         right: 4%;
         top:14%;
@@ -310,7 +310,7 @@ transition: 750ms;
         gap: 5px;
         padding: 20px;
         border-radius: 20px;
-        border-color: rgb(27, 27, 27);
+        border-color: rgb(0, 0, 0);
         border:3px;
         border-style:solid;
         max-width: 150px;
@@ -383,7 +383,7 @@ transition: 750ms;
     width: auto;
     min-width: 270px;
     margin: 0;
-    background-color: rgb(197, 197, 197);
+    background-color: rgb(0, 0, 0);
     padding: 20px;
     border-radius: 50px;
     border-style:outset;
@@ -395,7 +395,7 @@ transition: 750ms;
         border-radius: 20px;
         width: 100%;
         box-shadow: 20px;
-        background-color: rgb(128, 128, 128);
+        background-color: rgb(0, 0, 0);
     }
     .bdesc{
         font-size: 5px;
