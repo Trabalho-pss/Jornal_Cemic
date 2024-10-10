@@ -7,7 +7,7 @@ body{
 }
 
 footer{
-    background-color: hwb(281 9% 45%);
+    background-color: hwb(256 9% 45%) ;
     margin: 0;
     padding: 20px;
     color: white;
@@ -33,9 +33,9 @@ div#popup_sugest{
     top:50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-color: hwb(281 9% 45%);
+    background-color: hwb(263 4% 70%);
     border-style: solid;
-    border-color: hwb(281 9% 45%);
+    border-color: hwb(253 9% 45%);
     border: 20px;
     color: white;
     box-shadow: 0px 2px 10px black;
@@ -140,7 +140,7 @@ a.fot_desc{
 }
 
 header{
-    background-color: hwb(281 9% 45%);
+    background-color: hwb(256 9% 45%);
     display: flex;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -151,12 +151,12 @@ header{
 }
 
 .logo{
-    width: 150px;
-    height: 60px;
+    width: 250px;
+    height: 70px;
 }
 
 .topo{
-    background-color: hwb(281 9% 45%);
+    background-color: hwb(258 9% 45%);
     display: flex;
     padding: 10px;
     gap:50px;
